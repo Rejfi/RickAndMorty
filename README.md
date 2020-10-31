@@ -4,7 +4,7 @@ A Rick And Morty app that loads information from [The Rick and Morty API](https:
 
 # Technology  
  * ViewModel + LiveData (MVVM Architecture)
- * Hilt (for dependency injection)
+ * Hilt
  * Coroutines
  * Retrofit
  * Room
